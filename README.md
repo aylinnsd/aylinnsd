@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Aylin Salazar
 
-<!--
-**aylinnsd/aylinnsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de la especialidad de Científico en el Colegio Científico de Costa Rica, sede San Pedro.  
+📍 Apasionada por el conocimiento, la ciencia y los proyectos con impacto.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Habilidades y Tecnologías
+
+- 🧪 Ciencia básica (química, física, biología)
+- 📊 Organización de proyectos escolares
+- 💬 Comunicación y trabajo en equipo
+
+---
+
+## 📈 Estadísticas de GitHub
+
+> *(Puedes usar sitios como [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) para añadir tus estadísticas si tienes una cuenta activa de GitHub.)*
+
+---
+
+## 🌟 Proyectos Destacados
+
+> *(Aquí puedes incluir enlaces o descripciones breves de trabajos escolares, ferias científicas, exposiciones o proyectos personales.)*
+
+---
+
+## 📫 Contacto
+
+- ✉️ Correo: aylinsalazard0901@gmail.com
+
+---
+
+## 🎨 Elementos Creativos
+
+✨ Me encanta aprender cosas nuevas cada día.  
+📚 Disfruto explorar temas científicos, investigar y participar en actividades académicas.  
+🎵 También me gusta la música y pasar tiempo con amigos.
+
+---
+
